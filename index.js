@@ -10,6 +10,7 @@ fs.readFile('scrimba-info.txt', 'utf8', async (err, data) => {
   const splitter = new RecursiveCharacterTextSplitter({
     chunkSize: 500,
     separators: ['\n\n','\n', ' ', ''],
+    chunkOverlap: 50,
   })
   const output = await splitter.createDocuments([data])
 

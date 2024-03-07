@@ -11,22 +11,11 @@
     }
   },
   {
-    "pageContent": "Does the platform offer project-based learning where I can build real-world projects?\nYes. All of our projects use real-world examples and all of our learning is project based.\n\nWhat is the format of the courses?\nOur courses use interactive scrims. A scrim is both a video player and a code editor. When you pause the video, you can edit the code the teach was working on. It’s really cool and you have to try it to believe it.",
+    "pageContent": "What is the format of the courses?\nOur courses use interactive scrims. A scrim is both a video player and a code editor. When you pause the video, you can edit the code the teach was working on. It’s really cool and you have to try it to believe it.\n\nDoes the platform offer live classes or is it self-paced?\nAll of our courses are streamed on demand, so it’s self-paced. We do have a weekly Townhall meet up on Discord and Bootcamp students have online meetings at fixed times.",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 7,
-          "to": 11
-        }
-      }
-    }
-  },
-  {
-    "pageContent": "Does the platform offer live classes or is it self-paced?\nAll of our courses are streamed on demand, so it’s self-paced. We do have a weekly Townhall meet up on Discord and Bootcamp students have online meetings at fixed times.",
-    "metadata": {
-      "loc": {
-        "lines": {
-          "from": 13,
+          "from": 10,
           "to": 14
         }
       }
@@ -44,22 +33,22 @@
     }
   },
   {
-    "pageContent": "Does the platform offer certificates or credentials upon completion of a course or program?\nYes, when you graduate you get a certificate.\n\nWhat is the cost of the courses or subscription, and are there any discounts or scholarships available?\nWe use purchasing power parity, so please check Scrimba.com for your local price. If you are struggling to pay, please email us at help@scrimba.com and we will do our best to help.",
+    "pageContent": "What is the cost of the courses or subscription, and are there any discounts or scholarships available?\nWe use purchasing power parity, so please check Scrimba.com for your local price. If you are struggling to pay, please email us at help@scrimba.com and we will do our best to help.\n\nCan I access the platform and its resources offline?\nAt the moment, we are an online only platform.",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 21,
-          "to": 25
+          "from": 24,
+          "to": 28
         }
       }
     }
   },
   {
-    "pageContent": "Can I access the platform and its resources offline?\nAt the moment, we are an online only platform.\n\nWhat are the technical requirements to use the platform (system requirements, internet speed, etc.)?\nScrimba is ultra lightweight so you will probably find you can use it on a low spec PC with mobile internet!",
+    "pageContent": "What are the technical requirements to use the platform (system requirements, internet speed, etc.)?\nScrimba is ultra lightweight so you will probably find you can use it on a low spec PC with mobile internet!",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 27,
+          "from": 30,
           "to": 31
         }
       }
@@ -77,33 +66,22 @@
     }
   },
   {
-    "pageContent": "How frequently is the content updated to keep up with the latest industry trends and technologies?\nWe are constantly updating and improving our content!\n\nTrial Period\n\nDoes the platform offer a trial period or a money-back guarantee to test out the platform before committing? You can try the first scrims of a course for free. After that, we bill monthly but there is no minimum term so you can cancel when you want.\n\nScrimba Bootcamp - Onboarding Resources",
+    "pageContent": "Trial Period\n\nDoes the platform offer a trial period or a money-back guarantee to test out the platform before committing? You can try the first scrims of a course for free. After that, we bill monthly but there is no minimum term so you can cancel when you want.\n\nScrimba Bootcamp - Onboarding Resources\n\nWe highly recommend having an intro call with a teacher assistant to onboard you onto the Bootcamp and answer any questions to help you get the most out of the program.",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 36,
-          "to": 43
+          "from": 39,
+          "to": 45
         }
       }
     }
   },
   {
-    "pageContent": "Scrimba Bootcamp - Onboarding Resources\n\nWe highly recommend having an intro call with a teacher assistant to onboard you onto the Bootcamp and answer any questions to help you get the most out of the program.\n\nFollowing are helpful resources to help set you up for success as a Scrimba Bootcamp student. If there are any resources that you’d like added to this doc, get in touch on Discord. We look forward to learning with you!",
+    "pageContent": "Following are helpful resources to help set you up for success as a Scrimba Bootcamp student. If there are any resources that you’d like added to this doc, get in touch on Discord. We look forward to learning with you!\n\nBootcamp Curriculum\nThe Bootcamp follows the curriculum of our Frontend Developer Career Path. Access all the modules and projects of the path on Scrimba.com.",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 43,
-          "to": 47
-        }
-      }
-    }
-  },
-  {
-    "pageContent": "Bootcamp Curriculum\nThe Bootcamp follows the curriculum of our Frontend Developer Career Path. Access all the modules and projects of the path on Scrimba.com.",
-    "metadata": {
-      "loc": {
-        "lines": {
-          "from": 49,
+          "from": 47,
           "to": 50
         }
       }
@@ -121,11 +99,11 @@
     }
   },
   {
-    "pageContent": "Your Discord Study Group consists of peers who share your goals. Think of it as a friendly space to get help, companionship, and encouragement.\nWhen you first join the group, we encourage you to reach out to your group and let them know about you, your background, and your coding journey. It’s important to be active, post daily, and be sure to join our weekly sessions. The more you get involved, the more you’ll benefit from it and get the most out of your Bootcamp learning experience.",
+    "pageContent": "When you first join the group, we encourage you to reach out to your group and let them know about you, your background, and your coding journey. It’s important to be active, post daily, and be sure to join our weekly sessions. The more you get involved, the more you’ll benefit from it and get the most out of your Bootcamp learning experience.",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 53,
+          "from": 54,
           "to": 54
         }
       }
@@ -209,11 +187,11 @@
     }
   },
   {
-    "pageContent": "The turnaround time is roughly 24 hours after submitting your Solo Project for review. We'll notify you when your code review is complete in the #code-reviews channel on Discord.\nYou must submit your Solo Project as a scrim to get a code review.",
+    "pageContent": "You must submit your Solo Project as a scrim to get a code review.",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 80,
+          "from": 81,
           "to": 81
         }
       }
@@ -253,17 +231,6 @@
     }
   },
   {
-    "pageContent": "Where can I find the Bootcamp-exclusive Solo Projects?\nThose Solo Projects are all listed in your #study-group channel’s Pinned Messages.\n\nCan I attend all of the Sunday and Monday sessions?\nYou sure can. We encourage you to do so from time-to-time to get to know the group.",
-    "metadata": {
-      "loc": {
-        "lines": {
-          "from": 100,
-          "to": 104
-        }
-      }
-    }
-  },
-  {
     "pageContent": "Can I attend all of the Sunday and Monday sessions?\nYou sure can. We encourage you to do so from time-to-time to get to know the group.\n\nIs attendance in the Zoom and/or Discord sessions required?\nNo! These are optional, and we understand if your schedule doesn’t allow you to attend. But these are a great opportunity to connect with others, ask questions, and stay accountable.",
     "metadata": {
       "loc": {
@@ -297,22 +264,11 @@
     }
   },
   {
-    "pageContent": "10/3/22 - Bob Ziroll: Scrimba Teacher\n10/17/22 - Sara: Scrimba Bootcamp Code Reviewer\n10/25/22 - Per from Scrimba (CEO)\n11/14/22 - Tom Chant: Scrimba Teacher\n05/15/23 - Tom Chant from Scrimba\n06/05/23 - Hussien Khayoon: Staff Developer, Shopify\n06/05/23 - Bob Ziroll: Scrimba Instructor, React Superstar\n06/12/23 - Silvia Piovesan, Frontend Developer\n06/19/23 - Gresham Tembo, Frontend Developer\n06/19/23 - Bob Ziroll, Advanced React course preview\n06/26/23 - Rafid Hoda, Scrimba Instructor",
+    "pageContent": "11/14/22 - Tom Chant: Scrimba Teacher\n05/15/23 - Tom Chant from Scrimba\n06/05/23 - Hussien Khayoon: Staff Developer, Shopify\n06/05/23 - Bob Ziroll: Scrimba Instructor, React Superstar\n06/12/23 - Silvia Piovesan, Frontend Developer\n06/19/23 - Gresham Tembo, Frontend Developer\n06/19/23 - Bob Ziroll, Advanced React course preview\n06/26/23 - Rafid Hoda, Scrimba Instructor\n07/03/23 - James Tsetsekas, Fullstack Developer\n07/31/23 - Per Borgen: Scrimba CEO",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 119,
-          "to": 129
-        }
-      }
-    }
-  },
-  {
-    "pageContent": "06/12/23 - Silvia Piovesan, Frontend Developer\n06/19/23 - Gresham Tembo, Frontend Developer\n06/19/23 - Bob Ziroll, Advanced React course preview\n06/26/23 - Rafid Hoda, Scrimba Instructor\n07/03/23 - James Tsetsekas, Fullstack Developer\n07/31/23 - Per Borgen: Scrimba CEO",
-    "metadata": {
-      "loc": {
-        "lines": {
-          "from": 126,
+          "from": 122,
           "to": 131
         }
       }
@@ -341,22 +297,11 @@
     }
   },
   {
-    "pageContent": "Projects: Build a Google.com clone, Build a digital Business Card, Build a Space Exploration site, Build a Birthday GIFt Site\n\nSolo Project: Hometown Homepage\n\nModule 3 – 209 lessons - 10 hours 21 min\nMaking websites interactive\nCombine your newly acquired HTML & CSS skills with Javascript. This will allow you to create interactive websites.",
+    "pageContent": "Solo Project: Hometown Homepage\n\nModule 3 – 209 lessons - 10 hours 21 min\nMaking websites interactive\nCombine your newly acquired HTML & CSS skills with Javascript. This will allow you to create interactive websites.\n\nProjects: Build a passenger counter app, JavaScript challenges - part 1, Set Up a Local Dev Environment, Build a Blackjack game, JavaScript challenges - part 2, Build a Chrome Extension, JavaScript challenges - part 3, Build a Mobile App",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 147,
-          "to": 153
-        }
-      }
-    }
-  },
-  {
-    "pageContent": "Module 3 – 209 lessons - 10 hours 21 min\nMaking websites interactive\nCombine your newly acquired HTML & CSS skills with Javascript. This will allow you to create interactive websites.\n\nProjects: Build a passenger counter app, JavaScript challenges - part 1, Set Up a Local Dev Environment, Build a Blackjack game, JavaScript challenges - part 2, Build a Chrome Extension, JavaScript challenges - part 3, Build a Mobile App",
-    "metadata": {
-      "loc": {
-        "lines": {
-          "from": 151,
+          "from": 149,
           "to": 155
         }
       }
@@ -374,23 +319,12 @@
     }
   },
   {
-    "pageContent": "Module 5 – 150 lessons - 9 hours 58 min\nEssential JavaScript concepts\nIn this module, you'll level up your JavaScript skills and build three super-cool apps.\n\nProjects: The World's Most Annoying Cookie Consent, Pumpkin's Purrfect Meme Picker, Twimba: Twitter Clone, Essential JS Mini Projects\n\n\n\nModule 6 – 78 lessons - 4 hours 52 min\nResponsive design\nThis module teaches you how to make your websites work well on all screen sizes, a critical skill for any frontend developer.",
+    "pageContent": "Projects: The World's Most Annoying Cookie Consent, Pumpkin's Purrfect Meme Picker, Twimba: Twitter Clone, Essential JS Mini Projects\n\n\n\nModule 6 – 78 lessons - 4 hours 52 min\nResponsive design\nThis module teaches you how to make your websites work well on all screen sizes, a critical skill for any frontend developer.\n\nProjects: Build a Responsive Site, Build a Product Splash Page, CSS Grid: The ultimate layout tool\nSolo Project: Learning Journal",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 162,
-          "to": 172
-        }
-      }
-    }
-  },
-  {
-    "pageContent": "Module 6 – 78 lessons - 4 hours 52 min\nResponsive design\nThis module teaches you how to make your websites work well on all screen sizes, a critical skill for any frontend developer.\n\nProjects: Build a Responsive Site, Build a Product Splash Page, CSS Grid: The ultimate layout tool\nSolo Project: Learning Journal\n\nModule 7 – 15 lessons - 47 min\nCode reviews\nLearn what code reviews are, why they matter, and how to give successful code reviews.",
-    "metadata": {
-      "loc": {
-        "lines": {
-          "from": 170,
-          "to": 179
+          "from": 166,
+          "to": 175
         }
       }
     }
@@ -407,44 +341,44 @@
     }
   },
   {
-    "pageContent": "Projects: Intro to APIs & BoredBot, URLs, REST, & BlogSpace, Async JavaScript & War, Promise Rejection & Capstone\n\nModule 9 – 29 lessons - 2 hours 27 min\nLearn UI design\nIn this module, you'll learn how to build apps that both look good and work well.\nProjects: Intro to UI design, Build A Simple Layout, Full Project Refactoring",
+    "pageContent": "Module 9 – 29 lessons - 2 hours 27 min\nLearn UI design\nIn this module, you'll learn how to build apps that both look good and work well.\nProjects: Intro to UI design, Build A Simple Layout, Full Project Refactoring\n\nModule 10 – 167 lessons - 13 hours 3 min\nReact basics\nLearn the most popular library for building user interfaces. This will increase your productivity by an order of magnitude.",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 187,
-          "to": 192
+          "from": 189,
+          "to": 196
         }
       }
     }
   },
   {
-    "pageContent": "Module 10 – 167 lessons - 13 hours 3 min\nReact basics\nLearn the most popular library for building user interfaces. This will increase your productivity by an order of magnitude.\n\nProjects: Build a React info site, Build an AirBnb Experiences clone, Build a meme generator, Build a notes app and Tenzies games\n\nModule 11 – 170 lessons - 13 hours 5 min\nAdvanced React [UPDATED]\nLevel up your React JS skills to a professional level.\n\nSections: Reusability, React Router 6, Performance",
+    "pageContent": "Projects: Build a React info site, Build an AirBnb Experiences clone, Build a meme generator, Build a notes app and Tenzies games\n\nModule 11 – 170 lessons - 13 hours 5 min\nAdvanced React [UPDATED]\nLevel up your React JS skills to a professional level.\n\nSections: Reusability, React Router 6, Performance",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 194,
+          "from": 198,
           "to": 204
         }
       }
     }
   },
   {
-    "pageContent": "Module 11 – 170 lessons - 13 hours 5 min\nAdvanced React [UPDATED]\nLevel up your React JS skills to a professional level.\n\nSections: Reusability, React Router 6, Performance\n\nWhy the front end developer career path rocks:\nThis career path will turn you into a hireable frontend developer as fast as possible. By the end of it, you will have learned enough HTML, CSS, JavaScript, and React to get your first job as a frontend web developer.",
+    "pageContent": "Why the front end developer career path rocks:\nThis career path will turn you into a hireable frontend developer as fast as possible. By the end of it, you will have learned enough HTML, CSS, JavaScript, and React to get your first job as a frontend web developer.\n\nIt will also prepare you with strategies to get through the interview process, so that you increase the chance of landing your dream job.",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 200,
-          "to": 207
+          "from": 206,
+          "to": 209
         }
       }
     }
   },
   {
-    "pageContent": "It will also prepare you with strategies to get through the interview process, so that you increase the chance of landing your dream job.\n\nThe teachers of this path are some of the most popular online instructors these days, like Kevin Powell, Gary Simon, Cassidy Williams, and Dylan Israel. They’re all people who have gone up the hard road of becoming professional developers, so they know exactly what it takes.",
+    "pageContent": "The teachers of this path are some of the most popular online instructors these days, like Kevin Powell, Gary Simon, Cassidy Williams, and Dylan Israel. They’re all people who have gone up the hard road of becoming professional developers, so they know exactly what it takes.",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 209,
+          "from": 211,
           "to": 211
         }
       }
@@ -550,33 +484,22 @@
     }
   },
   {
-    "pageContent": "Buy with confidence\nMoney Back Guarantee:Full 30-day guarantee, no questions asked.\n\nKeep Discount For Life: Your discount stays for as long as you subscribe.\n\nCancel Whenever: No lock-in period. Cancel whenever you want.\n\nBuy Scrimba as a Gift:\nOne-time purchase\nGive a membership without worrying about future payments\n\n30-day money-back guarantee\nNo questions asked, full refund within 24 hours\n\nDoes not expire\nOur gift vouchers do not expire",
+    "pageContent": "Cancel Whenever: No lock-in period. Cancel whenever you want.\n\nBuy Scrimba as a Gift:\nOne-time purchase\nGive a membership without worrying about future payments\n\n30-day money-back guarantee\nNo questions asked, full refund within 24 hours\n\nDoes not expire\nOur gift vouchers do not expire\n\nAccess ALL our content\nTake all our courses, including the Frontend Developer Career Path\n\nEasy to use\nJust send a link and your recipient is good to go!",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 248,
-          "to": 263
+          "from": 253,
+          "to": 269
         }
       }
     }
   },
   {
-    "pageContent": "30-day money-back guarantee\nNo questions asked, full refund within 24 hours\n\nDoes not expire\nOur gift vouchers do not expire\n\nAccess ALL our content\nTake all our courses, including the Frontend Developer Career Path\n\nEasy to use\nJust send a link and your recipient is good to go!\n\nCommunity\nJoin a global community of friendly and helpful coders",
+    "pageContent": "Community\nJoin a global community of friendly and helpful coders\n\nDiscord Town Hall - ask team Scrimba anything. Hear back immediately! Live every Tuesday 5pm GMT/Midday EST. Various members of the Scrimba team smiling and Pumpkin the tuxedo cat saying 'Welcome' in a speech bubble.\nTown Hall",
     "metadata": {
       "loc": {
         "lines": {
-          "from": 259,
-          "to": 272
-        }
-      }
-    }
-  },
-  {
-    "pageContent": "Easy to use\nJust send a link and your recipient is good to go!\n\nCommunity\nJoin a global community of friendly and helpful coders\n\nDiscord Town Hall - ask team Scrimba anything. Hear back immediately! Live every Tuesday 5pm GMT/Midday EST. Various members of the Scrimba team smiling and Pumpkin the tuxedo cat saying 'Welcome' in a speech bubble.\nTown Hall",
-    "metadata": {
-      "loc": {
-        "lines": {
-          "from": 268,
+          "from": 271,
           "to": 275
         }
       }
