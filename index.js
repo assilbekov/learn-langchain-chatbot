@@ -7,7 +7,9 @@ fs.readFile('scrimba-info.txt', 'utf8', async (err, data) => {
     return
   }
 
-  const splitter = new RecursiveCharacterTextSplitter()
+  const splitter = new RecursiveCharacterTextSplitter({
+    chunkSize: 500
+  })
   const output = await splitter.createDocuments([data])
 
   fs.writeFile('output.json', JSON.stringify(output, null, 2), (err) => {
